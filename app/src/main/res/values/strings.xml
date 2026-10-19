@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AvaNegar</string>
+    <string name="app_subtitle">تبدیل گفتار به متن آفلاین</string>
+    <string name="record_start">شروع ضبط</string>
+    <string name="record_stop">توقف ضبط</string>
+    <string name="recording_active">در حال ضبط صدا…</string>
+    <string name="processing_audio">در حال پردازش صوت با مدل محلی Gemma…</string>
+    <string name="transcription_title">متن پیاده‌سازی شده (فارسی)</string>
+    <string name="copy_text">کپی متن</string>
+    <string name="clear_text">پاک کردن</string>
+    <string name="permission_required">مجوز دسترسی به میکروفون برای ضبط صدا لازم است</string>
+    <string name="grant_permission">اعطای مجوز میکروفون</string>
+    <string name="model_status_ready">مدل محلی آماده است</string>
+    <string name="model_status_loading">در حال بارگذاری مدل محلی…</string>
+    <string name="model_status_error">خطا در بارگذاری مدل</string>
+    <string name="copied_to_clipboard">متن در حافظه کپی شد</string>
+</resources>

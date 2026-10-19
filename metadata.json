@@ -1,0 +1,6 @@
+{
+  "name": "AvaNegar",
+  "description": "Offline Persian Speech-to-Text using on-device Gemma 4 E2B and LiteRT-LM",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
